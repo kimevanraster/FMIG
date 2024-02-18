@@ -37,11 +37,14 @@
 5. mods 파일 안에 들어가주세요.
 6. 위에 다운로드 받은 5가지 모드들을 넣어주세요.
 ```
+
 ```
 ※ 추가적으로 셰이더를 적용하고 싶은 분들은 아래 2가지 셰이더들을 추천해드립니다.
 ```
+
 - [Complemantary Shaders 다운로드 링크](https://www.curseforge.com/minecraft/shaders/complementary-unbound)
 - [Bliss Shdaers 다운로드 링크](https://www.curseforge.com/minecraft/shaders/bliss-shader)
+
 ```
 위 셰이더 중 Complemantary Shaders는 현재 가장 유행하고 있는 셰이더이며, Bliss라는 셰이더는 현재 가장 주목받고 있는 셰이더 중 하나입니다.
 ```

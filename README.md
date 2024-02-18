@@ -1,17 +1,17 @@
 ## 마인크래프트 패브릭 모드 설치 가이드(Fabric Mod Install Guide) 문서입니다.
 
 **Fabric**은 모드 로더의 일종으로 Forge와 비슷한 개념이라고 생각하시면 됩니다.
-> 현재 접속하려는 서버는 **Simple Voice Chat**이 필수로 들어갑니다.
-> 이 모드를 적용하고 추가적으로 필수로 들어가면 좋은 모드들을 알려드리겠습니다.
->
-> 필수적으로 사용할 모드는 총 5개입니다. Simple Voice chat, Sodium, Reese's Sodium Options, Iris, Fabric API
-> 사용할 마인크래프트 버전은 **1.20.4** 버전입니다. 모드들을 다운받을 때, 무조건 1.20.4 버전 모드들로 다운받아주세요.
+현재 접속하려는 서버는 **Simple Voice Chat**이 필수로 들어갑니다.
+이 모드를 적용하고 추가적으로 필수로 들어가면 좋은 모드들을 알려드리겠습니다.
+
+필수적으로 사용할 모드는 총 5개입니다. Simple Voice chat, Sodium, Reese's Sodium Options, Iris, Fabric API
+사용할 마인크래프트 버전은 **1.20.4** 버전입니다. 모드들을 다운받을 때, 무조건 1.20.4 버전 모드들로 다운받아주세요.
 
 ### Fabric 다운로드 및 적용방법
 > 1. [Fabric](https://fabricmc.net/use/installer/) 해당 링크에 접속하여 Fabric을 Minecraft Launcher 용으로 다운받아주세요.
 > 2. Fabric installer를 켜주세요.
 > 3. 마인크래프트 1.20.4 버전, 모드 로더 버전은 0.15.7로 설정해주시고 다운로드 받아주세요.
-> 4. 성공적으로 다운받았다고 화면이 나오면 정상적으로 다운받은 것입니다!
+> 4. 성공적으로 다운받았다고 화면이 나오면 설치가 완료된 것입니다.
 
 ### Fabric 모드 적용법
 > 1. 마인크래프트 Java Edition을 다운로드 해주세요. (Windows 10 버전은 Bedrock Edition으로 XBOX, PS5, Switch 등이 포함된 버전이므로 Java Edition과 착각하여 다운로드 받는 일을 주의해주십시오.)

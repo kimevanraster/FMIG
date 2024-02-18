@@ -4,7 +4,7 @@
 현재 접속하려는 서버는 **Simple Voice Chat**이 필수로 들어갑니다.
 이 모드를 적용하고 추가적으로 필수로 들어가면 좋은 모드들을 알려드리겠습니다.
 
-필수적으로 사용할 모드는 총 6개입니다. Simple Voice chat, Sodium, Reese's Sodium Options, Iris, Fabric API, LambDynamicLights
+필수적으로 사용할 모드는 총 6개입니다. Simple Voice chat, Sodium, Reese's Sodium Options, Iris, Fabric API, LambDynamicLights 이며
 사용할 마인크래프트 버전은 **1.20.4** 버전입니다. 모드들을 다운받을 때, 무조건 1.20.4 버전 모드들로 다운받아주세요.
 
 

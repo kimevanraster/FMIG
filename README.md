@@ -4,7 +4,7 @@
 현재 접속하려는 서버는 **Simple Voice Chat**이 필수로 들어갑니다.
 이 모드를 적용하고 추가적으로 필수로 들어가면 좋은 모드들을 알려드리겠습니다.
 
-필수적으로 사용할 모드는 총 5개입니다. Simple Voice chat, Sodium, Reese's Sodium Options, Iris, Fabric API
+필수적으로 사용할 모드는 총 6개입니다. Simple Voice chat, Sodium, Reese's Sodium Options, Iris, Fabric API, LambDynamicLights
 사용할 마인크래프트 버전은 **1.20.4** 버전입니다. 모드들을 다운받을 때, 무조건 1.20.4 버전 모드들로 다운받아주세요.
 
 
@@ -24,18 +24,19 @@
 ### Fabric 모드 적용법
 ```
 1. 마인크래프트 Java Edition을 다운로드 해주세요. (Windows 10 버전은 Bedrock Edition으로 XBOX, PS5, Switch 등이 포함된 버전이므로 Java Edition과 착각하여 다운로드 받는 일을 주의해주십시오.)
-2. 5가지 모드들을 다운받아주세요.
+2. 6가지 모드들을 다운받아주세요.
 ```
-    - [Simple Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat)
-    - [Soidum](https://www.curseforge.com/minecraft/mc-mods/sodium)
-    - [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options)
-    - [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
-    - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+- [Simple Voice Chat 다운로드 링크](https://cdn.modrinth.com/data/9eGKb6K1/versions/2OsfFUxE/voicechat-fabric-1.20.4-2.5.4.jar)
+- [Sodium 다운로드 링크](https://cdn.modrinth.com/data/AANobbMI/versions/4GyXKCLd/sodium-fabric-0.5.8%2Bmc1.20.4.jar)
+- [Reese's Sodium Options 다운로드 링크](https://cdn.modrinth.com/data/Bh37bMuy/versions/fkLiGoHs/reeses_sodium_options-1.7.2%2Bmc1.20.4-build.102.jar)
+- [Iris 다운로드 링크](https://cdn.modrinth.com/data/YL57xq9U/versions/kGdJ11Rt/iris-mc1.20.4-1.6.17.jar)
+- [Fabric API 다운로드 링크](https://cdn.modrinth.com/data/P7dR8mSH/versions/Ca6gRk94/fabric-api-0.96.3%2B1.20.4.jar)
+- [LambDynamicLights 다운로드 링크](https://cdn.modrinth.com/data/yBW8D80W/versions/mrQ8ZiyU/lambdynamiclights-2.3.4%2B1.20.4.jar)
 ```
 3. 윈도우 + R 단축키를 입력하고 %appdata% 를 입력해주세요.
 4. .minecraft에 파일 안에 들어가주세요.
 5. mods 파일 안에 들어가주세요.
-6. 위에 다운로드 받은 5가지 모드들을 넣어주세요.
+6. 위에 다운로드 받은 6가지 모드들을 넣어주세요.
 ```
 
 ```

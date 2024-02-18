@@ -10,10 +10,12 @@
 
 
 ### Fabric 다운로드 및 적용방법
+```
 > 1. [Fabric](https://fabricmc.net/use/installer/) 해당 링크에 접속하여 Fabric을 Minecraft Launcher 용으로 다운받아주세요.
 > 2. Fabric installer를 켜주세요.
 > 3. 마인크래프트 1.20.4 버전, 모드 로더 버전은 0.15.7로 설정해주시고 다운로드 받아주세요.
 > 4. 성공적으로 다운받았다고 화면이 나오면 설치가 완료된 것입니다.
+```
 
 
 

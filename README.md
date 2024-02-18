@@ -1,4 +1,4 @@
-## 마인크래프트 패브릭 모드 설치 가이드(Fabric Mod Install Guide) 문서입니다.
+## 밍턴 마동부 - 마인크래프트 패브릭 모드 설치 가이드(Fabric Mod Install Guide) 문서입니다.
 
 **Fabric**은 모드 로더의 일종으로 Forge와 비슷한 개념이라고 생각하시면 됩니다.
 현재 접속하려는 서버는 **Simple Voice Chat**이 필수로 들어갑니다.

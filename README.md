@@ -47,8 +47,6 @@
 
 ```
 위 셰이더 중 Complemantary Shaders는 현재 가장 유행하고 있는 셰이더이며, Bliss라는 셰이더는 현재 가장 주목받고 있는 셰이더 중 하나입니다.
-```
- 
 만약 셰이더를 끼고 싶은데 위 셰이더를 끼고 프레임이 안 나오는 분이 있다면 Sildurs Shader를 추천합니다.
 ```
 - [Sildurs Shaders 다운로드 링크](https://www.curseforge.com/minecraft/shaders/sildurs-vibrant-shaders)
